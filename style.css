@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: vollkorn;
+  src: url(./assets/Vollkorn-Bold.ttf);
+}
+
+canvas {
+  display: block;
+  margin-top: 50px;
+  margin-left: 170px;
+  border: solid 5px rgb(165, 42, 110) ;
+}
+
